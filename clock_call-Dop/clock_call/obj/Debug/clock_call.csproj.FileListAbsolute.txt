@@ -1,0 +1,15 @@
+D:\clock_call-Dop\clock_call\bin\Debug\clock_call.exe.config
+D:\clock_call-Dop\clock_call\bin\Debug\clock_call.exe
+D:\clock_call-Dop\clock_call\bin\Debug\clock_call.pdb
+D:\clock_call-Dop\clock_call\obj\Debug\clock_call.csproj.AssemblyReference.cache
+D:\clock_call-Dop\clock_call\obj\Debug\Interop.MediaPlayer.dll
+D:\clock_call-Dop\clock_call\obj\Debug\Interop.WMPLib.dll
+D:\clock_call-Dop\clock_call\obj\Debug\clock_call.csproj.ResolveComReference.cache
+D:\clock_call-Dop\clock_call\obj\Debug\clock_call.FormMenu.resources
+D:\clock_call-Dop\clock_call\obj\Debug\clock_call.FormAlClock.resources
+D:\clock_call-Dop\clock_call\obj\Debug\clock_call.FormClock.resources
+D:\clock_call-Dop\clock_call\obj\Debug\clock_call.Properties.Resources.resources
+D:\clock_call-Dop\clock_call\obj\Debug\clock_call.csproj.GenerateResource.cache
+D:\clock_call-Dop\clock_call\obj\Debug\clock_call.csproj.CoreCompileInputs.cache
+D:\clock_call-Dop\clock_call\obj\Debug\clock_call.exe
+D:\clock_call-Dop\clock_call\obj\Debug\clock_call.pdb
